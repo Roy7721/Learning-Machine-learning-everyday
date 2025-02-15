@@ -1,0 +1,3 @@
+GitHUB link of teacher -https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day17-api-to-dataframe
+Json viewer -https://jsonviewer.stack.hu/
+FREE public api for practice-https://rapidapi.com/collection/list-of-free-apis
